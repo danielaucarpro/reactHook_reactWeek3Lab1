@@ -1,0 +1,27 @@
+.h4 {
+  margin: 2rem;
+}
+
+.container {
+  width: 25rem;
+  height: 3rem;
+  margin: auto;
+  margin-bottom: 0.5rem;
+  background-color: #ffebcd;
+  padding: 3rem;
+  text-align: center;
+  font-size: 2rem;
+  border: 1px solid black;
+}
+
+.name {
+  margin: 0rem 3rem;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  font-size: 2rem;
+  color: #18860a;
+  cursor: pointer;
+}
